@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+}
+
+.header{
+    background-image: url("./pics/background.jpg");
+    backdrop-filter: grayscale(70%) blur(10px);
+    height: 40vh;
+    background-size: cover;
+    color: white;
+    
+}
